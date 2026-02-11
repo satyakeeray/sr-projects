@@ -23,6 +23,7 @@ It adds a custom post type called **Projects**, custom fields ( by ACF plugin ),
 
 ## 📁 Plugin Structure
 
+```text
 sr-projects/
 ├── assets/
 │ └── js/
